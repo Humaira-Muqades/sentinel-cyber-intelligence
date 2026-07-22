@@ -157,11 +157,7 @@ The full design calls for a seven-agent pipeline. v1 implements the three that c
 
 ---
 
-## License
 
-MIT — see [LICENSE](LICENSE).
-
----
 
 ## Author
 
